@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/meeting_interface_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meeting_service_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user_service_provider" charset="UTF-8" />
+  </component>
+</project>
